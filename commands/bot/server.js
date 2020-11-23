@@ -1,5 +1,4 @@
 const { MessageEmbed } = require('discord.js');
-const os = require('os')
 var cpuStat = require('cpu-stat');
 const si = require('systeminformation');
 const os = require('os');
